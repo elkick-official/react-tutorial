@@ -1,6 +1,5 @@
 import "./App.css";
-import { ReactLifeCycle } from "./components";
-import ReactUseStateSingleDataType from "./components/ReactUseStateHook/ReactUseStateSingleDataType";
+import { ReactLifeCycle, ReactUseStateSingleDataType } from "./components";
 
 function App() {
   return (
